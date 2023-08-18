@@ -1,20 +1,21 @@
-dish	ingredients	for 3000 people
-chappati	"wheat,"	300kg
-chenna dal masala	"tomatoes,oil,salt"	600kg
-paratha	"wheat, aloo"	"300kg,600kg"
-dosa	batter	900kg
-sambar	"dhal, water,"	450kg
-coconut chutney	"coconut,dhal,"	500kg
-idly	"idlirice,uraddal,salt,oil"	600kg
-rice	"rice,water"	450kg
-rasam	"water,tamrid,tomato"	600ltr
-aloo gobi masala	Cauliflower	450kg
-bread	wheat	6000 slices
-poori	"wheat,oil"	"450kg, 25ltr"
-chole bhature	"maida,wheat,oil"	300kg
-pasta	"penne,water,sauce,"	450kg
-pongal	"rice,ghee,black pepper,salt"	600kg
-paratha	"maida,wheat,oil"	300kg
-peas pulao		300kg
-kesari	rava	450kg
-chicken curry	chicken	450kg
+dish,ingredients,for 3000 people,,
+chappati,"wheat,",300kg,,
+chenna dal masala,"tomato,onion,chenna,spices",600kg,,
+paratha,"wheat,aloo,spices","300kg,600kg",,
+dosa,batter,900kg,,
+sambar,"dhal,water",450kg,,
+coconut chutney,"coconut,dhal,",500kg,,
+idly,"idlirice,uraddal,salt,oil",600kg,,
+rice,"rice,water",450kg,,
+rasam,"water,tamrid,tomato",600ltr,,
+aloo gobi masala,Cauliflower,450kg,,
+bread,wheat,6000 slices,,
+poori,"wheat,oil","450kg, 25ltr",,
+chole bhature,"maida,wheat,oil",300kg,,
+pasta,"penne,water,sauce,",450kg,,
+pongal,"rice,ghee,black pepper,salt",600kg,,
+paratha,"maida,wheat,oil",300kg,,
+peas pulao,"peas,carrot,capsicum",300kg,,
+kesari,rava,450kg,,
+chicken curry,chicken,450kg,,
+,,,,
