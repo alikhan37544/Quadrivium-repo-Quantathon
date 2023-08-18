@@ -1,12 +1,11 @@
 Name,Cost per Unit
 Potatoes,53.61
 onion,14.39
-Potatoes,40.4
 tomatoes,32.7
 bell peppers,66.92
 spinach,70.69
 cabbage,57.63
-cauliflower,91.03
+Cauliflower,91.03
 spinach,3.05
 green beans,71.05
 okra,91.72
@@ -24,7 +23,6 @@ milk,56.2
 curd,26.65
 paneer,3.38
 rice,44.96
-wheat flour,31.44
 masoor dal,95.56
 toor dal,38.54
 other lentils,85.32
@@ -39,3 +37,16 @@ red chilli,13.13
 coriander,53.57
 cumin,29.63
 mustard,32.04
+wheat,56.5
+aloo,36.3
+batter,54.4
+dhal,37.5
+coconut,45.6
+tamirind,34.5
+penne,45.6
+sauce,29.7
+rava,34.3
+chicken,46.3
+ginger,43.2
+chenna,32.5
+spices,40.2
